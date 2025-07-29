@@ -4,7 +4,7 @@
 
 ## Setup
 
-1. Create a .env file and set the VITE_API_KEY to a valid API key.
+1. Create the .env file and set the VITE_API_KEY to a valid API key.
 
 2. Install the required dependencies with
 ```npm i```
